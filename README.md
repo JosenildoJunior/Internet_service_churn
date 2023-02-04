@@ -1,2 +1,2 @@
 # Internet_service_churn
- Projeto em desenvolvimento com o intuito de prever cancelamentos de internet
+ Esse projeto tem como objetivos identificar perfis e prever clientes com risco de churn.
