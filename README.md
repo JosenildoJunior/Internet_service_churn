@@ -4,6 +4,7 @@
 
 Para esse projeto de Data Science as seguintes etapas foram seguidas:
 
+* Entendimento do problema
 * Obtenção dos dados
 * Análise Exploratória dos dados
 * Pré-processamento
