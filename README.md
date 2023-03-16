@@ -10,3 +10,5 @@ Para esse projeto de Data Science as seguintes etapas foram seguidas:
 * Pré-processamento
 * Modelos de Machine Learning
 * Avaliação do modelo
+
+**Aqui está o link do projeto:** https://github.com/JosenildoJunior/Internet_service_churn/blob/main/Internet_service_churn.ipynb
