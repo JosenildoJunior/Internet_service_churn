@@ -1,14 +1,16 @@
-# Modelo de Machine Learning para Churn
+# Projeto de Previsão de Churn com Machine Learning
 
- O objetivo desse projeto é identificar o perfil de clientes que cancelaram o contrato de um provedor de internet e também construir um modelo de Machine Learning para identificar os clientes em risco de Churn.
+Bem-vindo ao meu projeto de previsão de Churn, focado em entender o perfil dos clientes que cancelam os serviços de um provedor de internet e desenvolver um modelo de Machine Learning para identificar potenciais casos de Churn.
 
-Para esse projeto de Data Science as seguintes etapas foram seguidas:
+Neste projeto de Data Science, conduzimos as seguintes etapas:
 
-* Entendimento do problema
-* Obtenção dos dados
-* Análise Exploratória dos dados
-* Pré-processamento
-* Modelos de Machine Learning
-* Avaliação do modelo
+- Explorar o Problema
+- Coletar os Dados
+- Analisar os Dados de Forma Exploratória
+- Pré-processamento dos Dados
+- Desenvolver Modelos de Machine Learning
+- Avaliar a Performance dos Modelos
 
-**Aqui está o link do projeto:** [Internet_service_churn](https://github.com/JosenildoJunior/Internet_service_churn/blob/main/Internet_service_churn.ipynb)
+**Confira o projeto completo [aqui](https://github.com/JosenildoJunior/Internet_service_churn/blob/main/Internet_service_churn.ipynb)**.
+
+Fique à vontade para explorar o código e os insights descobertos durante a jornada de análise de dados e desenvolvimento do modelo!
